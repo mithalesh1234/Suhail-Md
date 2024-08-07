@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "Mithalesh Yadav",
       "required" :true
     },   
      
@@ -22,17 +22,17 @@
     "CAN_GOODBYE": {
       "description": "put 'false' or 'true' to enable & disable GOODBYE ",
       "value": "false",
-      "required" :false
+      "required" : true 
     },
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "Mithalesh Yadav"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Asia/Karachi"
+      "value": "Asia/Kolkata"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -65,7 +65,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "916207629435"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -93,7 +93,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "Mithalesh Yadav",
       "required": false 
     },
     "PACK_AUTHER": {
